@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17242f">
+  <meta name="description" content="Explore the M-MART supermarket in 3D. Rotate, zoom, pan, or open your own GLB or glTF model.">
+  <title>M-MART · 3D model viewer</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2317242f'/%3E%3Cpath d='M7 23V9l9 8 9-8v14' fill='none' stroke='%23efc462' stroke-width='3'/%3E%3C/svg%3E">
+  <style>
+    :root { color-scheme: light; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #17242f; background: #eaf0f4; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    button, input { font: inherit; }
+    button { cursor: pointer; }
+    button:focus-visible, canvas:focus-visible { outline: 3px solid #b97b17; outline-offset: 4px; }
+    button:disabled { opacity: .45; cursor: wait; }
+    .app { display: grid; grid-template-rows: auto minmax(0, 1fr) auto; height: 100vh; height: 100dvh; min-height: 440px; }
+    header { padding: 20px 28px; display: flex; align-items: center; justify-content: space-between; gap: 24px; background: #17242f; color: white; z-index: 2; }
+    .identity { display: flex; align-items: center; gap: 14px; min-width: 0; }
+    .mark { display: grid; place-items: center; flex: 0 0 38px; height: 38px; border: 1px solid #53606a; border-radius: 9px; color: #efc462; font-weight: 800; font-size: 22px; }
+    h1 { margin: 0; font-size: 17px; font-weight: 650; letter-spacing: -.02em; }
+    .subtitle { display: block; margin-top: 3px; font-size: 13px; color: #b3c0ca; }
+    .actions { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+    .button { border-radius: 7px; min-height: 42px; padding: 9px 15px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; font-size: 14px; font-weight: 600; border: 1px solid #54616d; background: transparent; color: white; }
+    .button:hover { background: #2d3d49; }
+    .button.primary { border-color: #efc462; background: #efc462; color: #17242f; }
+    .button.primary:hover { background: #f6d58b; }
+    .button svg { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.8; flex-shrink: 0; }
+    main { position: relative; min-width: 0; min-height: 0; overflow: hidden; }
+    #viewport { position: absolute; inset: 0; }
+    canvas { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
+    canvas:active { cursor: grabbing; }
+    .model-caption { pointer-events: none; position: absolute; left: 28px; top: 25px; max-width: calc(100% - 56px); z-index: 1; }
+    .eyebrow { margin: 0 0 6px; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: #627482; font-weight: 650; }
+    #model-name { display: block; font-size: 19px; font-weight: 650; overflow-wrap: anywhere; }
+    #model-size { display: block; margin-top: 5px; font-size: 13px; color: #627482; }
+    .notice { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: min(360px, calc(100% - 36px)); padding: 24px; text-align: center; background: rgba(255,255,255,.96); box-shadow: 0 12px 42px #17242f14; border: 1px solid #dce4ea; border-radius: 12px; z-index: 4; }
+    .notice[hidden] { display: none; }
+    #notice-title { margin: 0 0 8px; font-size: 17px; }
+    #notice-detail { margin: 0; font-size: 14px; line-height: 1.5; color: #627482; overflow-wrap: anywhere; }
+    .progress { width: 100%; margin-top: 17px; height: 4px; accent-color: #b97b17; }
+    #dismiss { margin-top: 16px; background: #17242f; color: white; border: 0; border-radius: 6px; padding: 9px 16px; }
+    #drop-hint { pointer-events: none; position: absolute; inset: 14px; display: none; place-items: center; border: 2px dashed #a77726; border-radius: 12px; background: #fff9eae8; font-weight: 600; z-index: 5; }
+    main.dragging #drop-hint { display: grid; }
+    footer { padding: 13px 28px; display: flex; justify-content: space-between; align-items: center; gap: 12px; background: #fff; border-top: 1px solid #dce4ea; font-size: 13px; color: #627482; z-index: 2; }
+    .gestures { display: flex; gap: 22px; flex-wrap: wrap; }
+    .gestures strong { font-weight: 600; color: #354b5c; }
+    .mobile-help { display: none; }
+    #status { flex-shrink: 0; }
+    .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+    @media (max-width: 640px) {
+      header { padding: 15px 16px; gap: 12px; flex-wrap: wrap; }
+      .identity { gap: 10px; }
+      .actions { gap: 7px; }
+      .mark { flex-basis: 32px; height: 32px; font-size: 19px; }
+      h1 { font-size: 16px; }
+      .button { padding: 9px 11px; min-height: 42px; }
+      .button svg { display: none; }
+      .model-caption { top: 18px; left: 18px; max-width: calc(100% - 36px); }
+      #model-name { font-size: 16px; }
+      footer { padding: 11px 16px; font-size: 12px; align-items: flex-start; }
+      .desktop-help { display: none; }
+      .mobile-help { display: block; line-height: 1.6; }
+      #status { text-align: right; }
+    }
+    @media (max-width: 360px) { .actions { width: 100%; } .button { flex: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto; } }
+  </style>
+  <script type="importmap">
+    {"imports":{"three":"./vendor/three/three.module.js","three/addons/":"./vendor/three/addons/"}}
+  </script>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="identity"><div class="mark" aria-hidden="true">M</div><div><h1>3D model viewer</h1><span class="subtitle">M-MART · Spatial study</span></div></div>
+      <div class="actions">
+        <button class="button" id="fit" disabled title="Fit the complete model in the viewport (F)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m13-5v5h-5M8 8h8v8H8z"/></svg>Fit view</button>
+        <button class="button primary" id="open" disabled><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h7l2 3h9v11H3zM3 9V5h7l2 3"/></svg>Open model</button>
+        <input class="sr-only" id="files" type="file" multiple accept=".glb,.gltf,.bin,.png,.jpg,.jpeg,.webp" aria-label="Choose a GLB or glTF model and its associated files">
+      </div>
+    </header>
+    <main id="stage" aria-label="Interactive 3D model">
+      <div id="viewport"></div>
+      <div class="model-caption"><p class="eyebrow">Model workspace</p><span id="model-name">Supermarket cutaway</span><span id="model-size">Estimated dimensions</span></div>
+      <section class="notice" id="notice" role="status" aria-live="polite">
+        <h2 id="notice-title">Loading supermarket</h2><p id="notice-detail">Preparing the 3D view…</p>
+        <progress class="progress" id="progress" aria-label="Model download progress"></progress>
+        <button id="dismiss" hidden>Close</button>
+      </section>
+      <div id="drop-hint">Drop your model and associated files here</div>
+    </main>
+    <footer>
+      <div class="gestures desktop-help"><span><strong>Drag</strong> to orbit</span><span><strong>Scroll</strong> to zoom</span><span><strong>Right-drag</strong> to pan</span></div>
+      <div class="mobile-help">1 finger: orbit · Pinch: zoom<br>2 fingers: pan</div>
+      <span id="status" aria-live="polite">Loading model</span>
+    </footer>
+  </div>
+  <noscript>This viewer requires JavaScript to display the 3D model.</noscript>
+  <script type="module">
+    import('./viewer.js').catch(error => {
+      document.querySelector('#notice-title').textContent = 'Viewer could not start';
+      document.querySelector('#notice-detail').textContent = location.protocol === 'file:'
+        ? 'Open this folder through a local web server. Run python3 serve.py, then open http://localhost:8765.'
+        : 'The viewer files could not load. Reload the page or check your browser console.';
+      document.querySelector('#progress').hidden = true;
+      document.querySelector('#status').textContent = 'Viewer unavailable';
+      console.error(error);
+    });
+  </script>
+</body>
+</html>

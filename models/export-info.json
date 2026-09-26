@@ -1,0 +1,10 @@
+{
+  "source": "M-Mart-Supermarket.blend",
+  "objects": 10110,
+  "unique_meshes": 861,
+  "simplified_product_meshes": 75,
+  "view": "Roof cutaway",
+  "dimensions": "Indicative, not surveyed",
+  "materials": "Procedural Blender materials reduced to portable PBR base values; glazing uses alpha blending.",
+  "geometry": "Dense product meshes simplified for interactive performance; repeated meshes GPU-instanced by instance_model.py."
+}

@@ -1,0 +1,1734 @@
+00:00.678  blend            | Read blend: "/home/jasmalcnit/JasmalWorkspace/MarziMedia/3D work/output/supermarket/blender/M-Mart-Supermarket.blend"
+/home/jasmalcnit/JasmalWorkspace/MarziMedia/3D work/output/supermarket/viewer/scripts/export_model.py:15: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not mat.use_nodes:continue
+BlenderMCP addon registered
+SIMPLIFIED PRODUCT MESHES 75
+EXPORT OBJECTS 10110 UNIQUE MESHES 861
+INFO Draco is available, use library at /home/jasmalcnit/software/blender-5.2.2-linux-x64/lib/libbf_intern_draco_bridge.so
+INFO MeshOptimizer is available, use library at /home/jasmalcnit/software/blender-5.2.2-linux-x64/lib/libbf_intern_meshopt_bridge.so
+22:06:31 | INFO: Starting glTF 2.0 export
+22:06:31 | INFO: Extracting primitive: Basket bottom wire geometry.010
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.011
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.012
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.013
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.014
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.015
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.016
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.017
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.018
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket bottom wire geometry.019
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.014
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.015
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.016
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.017
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.018
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.019
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.020
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.021
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.022
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.023
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.024
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.025
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.026
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal end wire geometry.027
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.014
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.015
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.016
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.017
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.018
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.019
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.020
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.021
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.022
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.023
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.024
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.025
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.026
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket horizontal side wire geometry.027
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.014
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.015
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.016
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.017
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.018
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.019
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.020
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.021
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.022
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.023
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.024
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.025
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.026
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical end wire geometry.027
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.020
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.021
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.022
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.023
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.024
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.025
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.026
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.027
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.028
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.029
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.030
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.031
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.032
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.033
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.034
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.035
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.036
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.037
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.038
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Basket vertical side wire geometry.039
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 0 charcoal board geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 0 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 0 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 1 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 1 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 2 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 2 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 3 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 3 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 4 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 4 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 5 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 5 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 6 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 6 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 7 editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bin label 7 editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Blue push handle geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brand accent geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.014
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.015
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.016
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.017
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.018
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.019
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.020
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.021
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.022
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.023
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.024
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.025
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.026
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Brass lamp halo geometry.027
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: BREAD charcoal board geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: BREAD editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: BREAD editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: BREAD — Tomato linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Saffron linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Marigold linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Leaf linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Cobalt linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Cream linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Plum linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: BREAD — Turquoise linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.360
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.361
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.362
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.363
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.364
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.365
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.366
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.367
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.368
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.369
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.370
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.371
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.372
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.373
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.374
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.375
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.376
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.377
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.378
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.379
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.380
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.381
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.382
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.383
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.384
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.385
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.386
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.387
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.388
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.389
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.390
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.391
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.392
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.393
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.394
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.395
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.396
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.397
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.398
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.399
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.400
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.401
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.402
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.403
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.404
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.405
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.406
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.407
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.408
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.409
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.410
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.411
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.412
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.413
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.414
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.415
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.416
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.417
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.418
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.419
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.420
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.421
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.422
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.423
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.424
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.425
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.426
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.427
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.428
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.429
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.430
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.431
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.432
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.433
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.434
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.435
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.436
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.437
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.438
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.439
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.440
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.441
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.442
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.443
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.444
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.445
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.446
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.447
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.448
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.449
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.450
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.451
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.452
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.453
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.454
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.455
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.456
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.457
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.458
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.459
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.460
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.461
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.462
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.463
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.464
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.465
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.466
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.467
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.468
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.469
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.470
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.471
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.472
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.473
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.474
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.475
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.476
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.477
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.478
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.479
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.480
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.481
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.482
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.483
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.484
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.485
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.486
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.487
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.488
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.489
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.490
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.491
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.492
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.493
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.494
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.495
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.496
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.497
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.498
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.499
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.500
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.501
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.502
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.503
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.504
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.505
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.506
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.507
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.508
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.509
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.510
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.511
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.512
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.513
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.514
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.515
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.516
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.517
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.518
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.519
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.520
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.521
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.522
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.523
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.524
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.525
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.526
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.527
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.528
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.529
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.530
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.531
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.532
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.533
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.534
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.535
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.536
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.537
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.538
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.539
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.540
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.541
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.542
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.543
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.544
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.545
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.546
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.547
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.548
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.549
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.550
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.551
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.552
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.553
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.554
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.555
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.556
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.557
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.558
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.559
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.560
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.561
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.562
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.563
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.564
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.565
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.566
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.567
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.568
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.569
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.570
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.571
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.572
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.573
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.574
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.575
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.576
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.577
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.578
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.579
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.580
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.581
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.582
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.583
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.584
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.585
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.586
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.587
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.588
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.589
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.590
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.591
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.592
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.593
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.594
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.595
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.596
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.597
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.598
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.599
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.600
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.601
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.602
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.603
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.604
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.605
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.606
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.607
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.608
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.609
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.610
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.611
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.612
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.613
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.614
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.615
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.616
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.617
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.618
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.619
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.620
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.621
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.622
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.623
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.624
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.625
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.626
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.627
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.628
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.629
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.630
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.631
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.632
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.633
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.634
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.635
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.636
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.637
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.638
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.639
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.640
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.641
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.642
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.643
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.644
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.645
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.646
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.647
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.648
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.649
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.650
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.651
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.652
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.653
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.654
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.655
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.656
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.657
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.658
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.659
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.660
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.661
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.662
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.663
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.664
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.665
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.666
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.667
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.668
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.669
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.670
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.671
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.672
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.673
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.674
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.675
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.676
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.677
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.678
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.679
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.680
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.681
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.682
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.683
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.684
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.685
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.686
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.687
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.688
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.689
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.690
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.691
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.692
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.693
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.694
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.695
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.696
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.697
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.698
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.699
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.700
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.701
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.702
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.703
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.704
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.705
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.706
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.707
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.708
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.709
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.710
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.711
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.712
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.713
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.714
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.715
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.716
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.717
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.718
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bucket handle geometry.719
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Bulk grain base geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair back geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.008
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.009
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.010
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.011
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.012
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.013
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.014
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair leg geometry.015
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Cashier chair seat geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Ceramic plant pot geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Individual grain topology.012
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Checkout 1 oak cabinet geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Checkout 1 plinth geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Checkout 1 white worktop geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: CHIPS editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: CHIPS editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: CRISPS — Tomato linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Saffron linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Marigold linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Leaf linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Cobalt linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Cream linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Plum linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: CRISPS — Turquoise linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: Clear facade pane 00 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clear facade pane 01 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clear facade pane 02 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clear facade pane 03 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clear facade pane 05 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clerestory pane 00 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clerestory pane 01 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clerestory pane 02 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clerestory pane 03 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Clerestory pane 05 geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Column graphite trim geometry.002
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Column graphite trim geometry.003
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.030
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.031
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.032
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.033
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.034
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.035
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.036
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.037
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.038
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.039
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.040
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.041
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.042
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.043
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.044
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.045
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.046
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.047
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.048
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.049
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.050
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.051
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.052
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.053
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.054
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.055
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.056
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.057
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.058
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Stainless pot assembly linked mesh.059
+22:06:32 | INFO: Primitives created: 2
+22:06:32 | INFO: Extracting primitive: Door handle fixing geometry.004
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Door handle fixing geometry.005
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Door handle fixing geometry.006
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Door handle fixing geometry.007
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Double-sided gondola 1.75m back panel geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Double-sided gondola 1.75m oak plinth geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Double-sided gondola 1.75m oak upright geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Double-sided gondola 1.75m price rail geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Double-sided gondola 1.75m shelf geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Double-sided gondola 1.75m toe kick geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Entrance door handle geometry.002
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Entrance door handle geometry.003
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Entrance mat geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Essentials wayfinding charcoal board geometry.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Essentials wayfinding editable text
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Essentials wayfinding editable text.002
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Essentials wayfinding editable text.001
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: Essentials wayfinding editable text.003
+22:06:32 | INFO: Primitives created: 1
+22:06:32 | INFO: Extracting primitive: OIL — Tomato linked mesh.002
+22:06:32 | INFO: Primitives created: 3
+22:06:32 | INFO: Extracting primitive: OIL — Saffron linked mesh.002
+22:06:32 | INFO: Primitives created: 3
+22:06:32 | INFO: Extracting primitive: ATTA — Saffron linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: ATTA — Marigold linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: PULSES — Leaf linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: PULSES — Cobalt linked mesh.003
+22:06:32 | INFO: Primitives created: 5
+22:06:32 | INFO: Extracting primitive: SPICE — Cobalt linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: ATTA — Leaf linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: SPICE — Cream linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: SPICE — Plum linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: OIL — Plum linked mesh.002
+22:06:33 | INFO: Primitives created: 3
+22:06:33 | INFO: Extracting primitive: PULSES — Cream linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: OIL — Turquoise linked mesh.002
+22:06:33 | INFO: Primitives created: 3
+22:06:33 | INFO: Extracting primitive: ATTA — Tomato linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: SPICE — Turquoise linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: PULSES — Marigold linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: Facade aluminium mullion geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Facade horizontal rail geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Foundation slab geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Gondola endcap oak frame geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain bin 01 oak front geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain bin 01 rear geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain bin base geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain bin divider geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.007
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.008
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.009
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.010
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.011
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.012
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Grain substrate geometry.013
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Individual grain topology.015
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: SPICE — Tomato linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: SPICE — Saffron linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: SPICE — Marigold linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: SPICE — Leaf linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: Keyboard geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.030
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.031
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.032
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.033
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.034
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.035
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.036
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.037
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.038
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.039
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.040
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.041
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.042
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.043
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.044
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.045
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.046
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.047
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.048
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.049
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.050
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.051
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.052
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.053
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.054
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.055
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.056
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.057
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.058
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Folded lanceolate leaf.059
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: MASALA charcoal board geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: MASALA editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: MASALA editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: MASALA — Saffron linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Marigold linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Cobalt linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Leaf linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Cream linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Plum linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Tomato linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: MASALA — Turquoise linked mesh.003
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: Individual grain topology.010
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Individual grain topology.008
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.030
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.031
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.032
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.033
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.034
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.035
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.036
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.037
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.038
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.039
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.040
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.041
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.042
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.043
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.044
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.045
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.046
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.047
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.048
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.049
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.050
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.051
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.052
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.053
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.054
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.055
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.056
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.057
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.058
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Open plastic bucket geometry.059
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Pantry wayfinding editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Pantry wayfinding editable text.002
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Pantry wayfinding editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Pantry wayfinding editable text.003
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: BISCUITS — Tomato linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: BISCUITS — Saffron linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: JUICE — Saffron linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: JUICE — Marigold linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: BISCUITS — Cobalt linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: JUICE — Leaf linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: BISCUITS — Cream linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: BISCUITS — Plum linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: JUICE — Plum linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: JUICE — Turquoise linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: JUICE — Tomato linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: BISCUITS — Turquoise linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: BISCUITS — Marigold linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: BISCUITS — Leaf linked mesh.002
+22:06:33 | INFO: Primitives created: 5
+22:06:33 | INFO: Extracting primitive: JUICE — Cobalt linked mesh.002
+22:06:33 | INFO: Primitives created: 4
+22:06:33 | INFO: Extracting primitive: Perimeter side wall geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Perimeter skirting geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.030
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.031
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.032
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.033
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.034
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.035
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.036
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.037
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.038
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.039
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.040
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.041
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.042
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.043
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.044
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.045
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.046
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.047
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.048
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.049
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.050
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.051
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.052
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.053
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.054
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.055
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.056
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.057
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.058
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Plant stem geometry.059
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: RICE BAGS charcoal board geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: PLASTICS editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: PLASTICS editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: POOJA ITEMS editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: POOJA ITEMS editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Porcelain floor tile 00.00 geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Porcelain floor tile 00.29 geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Porcelain floor tile 17.00 geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Porcelain floor tile 17.29 geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: POS monitor geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: POS pedestal geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: POS screen row geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: POS screen geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promo retaining edge geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promotional island joinery geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promotional island message charcoal board geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promotional island message editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promotional island message editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promotional island toe kick geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Promotional island tray geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rear cap geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rear wall geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Receipt paper geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Receipt printer geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Individual grain topology.011
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Individual grain topology.013
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice and dal department charcoal board geometry.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice and dal department editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice and dal department editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice and dal reverse editable text
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice and dal reverse editable text.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag product
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag product.003
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag product.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag product.004
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag product.002
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag product.005
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag weight
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag weight.003
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag weight.001
+22:06:33 | INFO: Primitives created: 1
+22:06:33 | INFO: Extracting primitive: Rice bag weight.004
+22:06:33 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag weight.002
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag weight.005
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag wordmark
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag wordmark.003
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag wordmark.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag wordmark.004
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag wordmark.002
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice bag wordmark.005
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: RICE BAGS editable text
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: RICE BAGS editable text.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice sack front-right platform geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice sack oak tray geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice sack printed stripe geometry.003
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice sack printed stripe geometry.004
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Rice sack printed stripe geometry.005
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: RICE — Tomato linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Saffron linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Marigold linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Leaf linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Cobalt linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Cream linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Plum linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: RICE — Turquoise linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: SELF-PACKING editable text
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: SELF-PACKING editable text.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: PULSES — Tomato linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: PULSES — Saffron linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: ATTA — Cobalt linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: ATTA — Cream linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: ATTA — Plum linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: PULSES — Plum linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: PULSES — Turquoise linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: ATTA — Turquoise linked mesh.003
+22:06:34 | INFO: Primitives created: 5
+22:06:34 | INFO: Extracting primitive: Shelf ticket geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: SNACKS editable text
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: SNACKS editable text.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Soft woven 5kg sack flexible film geometry.003
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Soft woven 5kg sack flexible film geometry.004
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Soft woven 5kg sack flexible film geometry.005
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Soil surface geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: STEEL UTENSILS editable text
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: STEEL UTENSILS editable text.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront brand panel geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront inside tagline
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront inside tagline.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront inside wordmark
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront inside wordmark.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront outside tagline
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront outside tagline.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront outside wordmark
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Storefront outside wordmark.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Structural column | assumed geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Ticket ink geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Tile grout bed geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Till cash drawer geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Individual grain topology.009
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.014
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.015
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.016
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.017
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.018
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.019
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.020
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.021
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.022
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.023
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.024
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.025
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.026
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Traditional brass lamp geometry.027
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley chassis geometry.002
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley chassis geometry.003
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley crossbar geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley rear upright geometry.002
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley rear upright geometry.003
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley rubber wheel geometry.004
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley rubber wheel geometry.005
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley rubber wheel geometry.006
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Trolley rubber wheel geometry.007
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall graphite cap geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf 1.70m back panel geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf 1.70m oak plinth geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf 1.70m oak upright geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf 1.70m price rail geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf 1.70m shelf geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf 1.70m toe kick geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf concealed LED geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wall shelf top canopy geometry.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Welcome mat lettering
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Welcome mat lettering.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Welcome mat subtitle
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Welcome mat subtitle.001
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Individual grain topology.014
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wheel fork geometry.004
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wheel fork geometry.005
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wheel fork geometry.006
+22:06:34 | INFO: Primitives created: 1
+22:06:34 | INFO: Extracting primitive: Wheel fork geometry.007
+22:06:34 | INFO: Primitives created: 1
+22:06:38 | INFO: Finished glTF 2.0 export in 6.459605693817139 s
+
+EXPORT_COMPLETE

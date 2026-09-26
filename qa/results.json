@@ -1,0 +1,153 @@
+{
+  "checks": [
+    "Bundled GLB loads and fits desktop viewport",
+    "Pointer drag orbits camera",
+    "Wheel zoom changes distance",
+    "Right drag pans target",
+    "Fit restores framing and center",
+    "Resize fits portrait viewport",
+    "No horizontal overflow on mobile",
+    "Small screen has no horizontal overflow",
+    "External glTF + BIN loads, centers, and fits",
+    "Original model dimensions reported",
+    "Invalid GLB preserves previous model",
+    "Missing glTF resources produce useful error",
+    "Import recovers after errors",
+    "Touch gesture orbits model",
+    "Pinch zoom",
+    "Two-finger pan",
+    "No uncaught browser errors"
+  ],
+  "browserErrors": [],
+  "warnings": [
+    "Model load failed: Unexpected token 'i', \"invalid model\" is not valid JSON",
+    "Model load failed: Missing asset: cube.bin. Select it together with the glTF file."
+  ],
+  "desktop": {
+    "loaded": true,
+    "name": "Supermarket cutaway",
+    "error": "",
+    "camera": [
+      3.1234799559212383,
+      10.785662527306048,
+      12.493919823684953
+    ],
+    "target": [
+      0,
+      1.0247876650521808,
+      0
+    ],
+    "distance": 16.159481355300024,
+    "aspect": 1.6532721010332951,
+    "projectedBounds": [
+      [
+        -0.12713831250245566,
+        0.3135659895822483,
+        0.9999097809181653
+      ],
+      [
+        -0.48315711941327355,
+        -0.6379652682980427,
+        0.9998558024834567
+      ],
+      [
+        -0.13501252849146267,
+        0.5458630492603854,
+        0.9999039455295319
+      ],
+      [
+        -0.5319561421846607,
+        -0.3552478954198857,
+        0.9998408344863305
+      ],
+      [
+        0.325024463966562,
+        0.2170559706480767,
+        0.9999043061009035
+      ],
+      [
+        0.21888294851821902,
+        -0.8849557522123885,
+        0.9998417912151991
+      ],
+      [
+        0.3464012502576622,
+        0.45739151443689946,
+        0.999897749254934
+      ],
+      [
+        0.2433136047725532,
+        -0.6000934710994844,
+        0.9998236862541451
+      ]
+    ],
+    "drawCalls": 1178,
+    "triangles": 2615494,
+    "width": 1440,
+    "height": 871
+  },
+  "mobile": {
+    "loaded": true,
+    "name": "Supermarket cutaway",
+    "error": "",
+    "camera": [
+      4.712464776666117,
+      15.751240092133797,
+      18.849859106664468
+    ],
+    "target": [
+      0,
+      1.0247876650521808,
+      0
+    ],
+    "distance": 24.380174603548642,
+    "aspect": 0.5948522402287894,
+    "projectedBounds": [
+      [
+        -0.254712319159928,
+        0.2260305924068925,
+        0.996740667394778
+      ],
+      [
+        -0.8345055989722254,
+        -0.3964630080162641,
+        0.9955315651707762
+      ],
+      [
+        -0.26589058634588414,
+        0.3867918835868206,
+        0.9965916281853975
+      ],
+      [
+        -0.8849557522123895,
+        -0.2126385523187846,
+        0.9952531591353151
+      ],
+      [
+        0.6407686676370596,
+        0.1539648976990663,
+        0.9966006903866832
+      ],
+      [
+        0.36499013280117854,
+        -0.5309523097336122,
+        0.9952703394911865
+      ],
+      [
+        0.6701014671995583,
+        0.318356693698937,
+        0.9964388191551669
+      ],
+      [
+        0.3883875545208651,
+        -0.3446534086821913,
+        0.9949583829798025
+      ]
+    ],
+    "drawCalls": 1178,
+    "triangles": 2615494,
+    "width": 390,
+    "height": 656
+  },
+  "note": "Touch check rerun after waiting for viewer initialization; final lighting and depth precision inspected."
+}
